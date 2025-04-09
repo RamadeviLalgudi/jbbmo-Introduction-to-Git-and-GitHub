@@ -2,6 +2,7 @@
 
 ## Simple Interest Calculator
 #New line added from bug_typo_fixed branch
+
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
