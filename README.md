@@ -1,7 +1,7 @@
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
-
+#New line added from bug_typo_fixed branch
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
@@ -12,5 +12,4 @@ Input:
 Output
    simple interest = p*t*r
 ```
-#New line added from bug_typo_fixed branch
 _© 2022 XYZ, Inc._
